@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124224101115",
+    "firebase_url": "https://azuremobile-test.firebaseio.com",
+    "project_id": "azuremobile-test",
+    "storage_bucket": "azuremobile-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124224101115:android:55d629c1b09be16e",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app_test_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124224101115-fgc211nvis2hdcj1c25q8bojg2343rr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeiJZ75iz9fwr_mmHaW4QeAZxYA3NDEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
